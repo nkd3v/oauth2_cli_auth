@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: oauth2-cli-auth
+Version: 1.4.1
+Summary: Authenticate against OAuth2 Provider in Python CLIs
+Home-page: https://github.com/nkd3v/oauth2_cli_auth
+License: MIT
+Author: Timo Reymann
+Author-email: mail@timo-reymann.de
+Requires-Python: >=3.9,<4.0
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Environment :: MacOS X
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Project-URL: Bug Tracker, https://github.com/nkd3v/oauth2_cli_auth/issues
+Project-URL: Repository, https://github.com/nkd3v/oauth2_cli_auth
+Description-Content-Type: text/markdown
+
+
